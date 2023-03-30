@@ -21,4 +21,7 @@ HTML       | 40%
 connect: [LinkdIn](https://www.linkedin.com/in/luana-melo-0486a9259/)
 
 
-![Alt](https://1drv.ms/f/s!Ak4y1Kmb_3cOgVdvG81dr7sCdurG?e=K9Y0Wv)
+![Alt][def]
+
+
+[def]: https://1drv.ms/f/s!Ak4y1Kmb_3cOgVdvG81dr7sCdurG?e=K9Y0Wv
